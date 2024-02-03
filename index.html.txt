@@ -1,0 +1,21 @@
+<!--Trinh_Assignment3.2-->
+<!DOCTYPE html>
+<html lang = "en">
+
+<head>
+	<title>Matthew Trinh's CSD 340 Landing Page</title>
+	<link href = "C:/site.css" type = "text/css" rel=stylesheet"/>
+
+<head>
+<body>
+	<div id="container">
+	#Matthew Trinh CSD 340 Landing Page
+	## CSD 340 Webdevelopment with HTML and CSS 
+	<hr>
+	### Module Assignments
+		<ul>
+		<li>1.3</li>
+		<li>2.2</li>
+		<li>3.3</li>
+		<a href="module>
+question here 
